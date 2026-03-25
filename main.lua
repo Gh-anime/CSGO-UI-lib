@@ -1,5 +1,4 @@
--- XEN UI Library (formerly known as Library)
--- Author: lyapossss / renamed to XEN
+-- CSGO UI lib by Xen
 -- Core Roblox services and utility functions
 local Workspace = game:GetService("Workspace")
 local UserInputService = game:GetService("UserInputService")
