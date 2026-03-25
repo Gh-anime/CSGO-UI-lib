@@ -5,25 +5,26 @@
 
 ---
 *Supported Execs:*
--Volt
--Potassium
--Volcano
--Wave
--Isaeva
--Synapse Z
--Velocity
--Seliware
--Bunni.fun
--SirHurt
--Xeno ( partially )
--Solara ( partially )
--Hydrogen
--MacSploit
--OpiumWare
--Delta
--Cryptic
--Vega X
--Codex
+    - Volt
+    - Potassium
+    - Volcano
+    - Wave
+    - Isaeva
+    - Synapse Z
+    - Velocity
+    - Seliware
+    - Bunni.fun
+    - SirHurt
+    - Xeno ( partially )
+    - Solara ( partially )
+    - Hydrogen
+    - MacSploit
+    - OpiumWare
+    - Delta
+    - Cryptic
+    - Vega X
+    - Codex
+    -
 
 ---
 
